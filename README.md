@@ -39,7 +39,8 @@ simon-game/
 - Game-over detection and restart logic
 - Audio and visual feedback using jQuery
 
-📚 What I Learned
+## 📚 What I Learned
+
 Advanced DOM manipulation
 
 Event handling with jQuery
@@ -48,7 +49,8 @@ Audio playback in JavaScript
 
 Recursive pattern checking
 
-🎯 Future Enhancements
+## 🎯 Future Enhancements
+
 High score tracker
 
 Difficulty levels
