@@ -39,11 +39,6 @@ simon-game/
 - Game-over detection and restart logic
 - Audio and visual feedback using jQuery
 
-## 🚀 Getting Started Locally
-
-git clone https://github.com/yourusername/simon-game.git
-cd simon-game
-open index.html
 📚 What I Learned
 Advanced DOM manipulation
 
